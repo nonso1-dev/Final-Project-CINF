@@ -1,7 +1,7 @@
 # Final-Project-CINF
 
 ## Overview
-My final project is a Python-based data mining project designed to analyze CSV data under various parameters. Whether you're dealing with financial data, customer demographics, or sensor readings, DataMineCSV offers a robust toolkit for extracting insights and patterns from your datasets.
+My final project is a Python-based data mining project designed to analyze CSV data under various parameters. Whether you're dealing with financial data, customer demographics, or sensor readings, my project offers a robust toolkit for extracting insights and patterns from your datasets.
 
 ## Features
 - CSV Data Analysis: Import CSV data and perform comprehensive analysis using a variety of data mining techniques.
